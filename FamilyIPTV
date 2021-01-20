@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLA",Gazi TV [BD]
-http://edge-sgp.bd-cast.net/master/cdn.banglatv.xyz:8080/beeiptv-stb/gazitv/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA",Sangsad TV [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA",BTV WORLD [BD]
@@ -194,8 +194,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISENY CARTOON" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngusASFZhhWjJ_x-E9Txe1rptV3VpEibVG30Cj9BA=s900-c-k-c0x00ffffff-no-rj" group-title="KIDZ",DISENY CARTOON
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [BD]
-http://10.16.100.207:8082/sports/sportst.m3u8
+https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [BD] (2)
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [BD] (3)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS",Sony Ten 1 HD
 http://103.205.133.21/hls/ten1.m3u8
