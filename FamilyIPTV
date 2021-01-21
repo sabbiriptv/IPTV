@@ -233,6 +233,30 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",Gazi TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORTS",Bein Sports 1
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191848
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="SPORTS",Bein Sports 2
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191849
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="SPORTS",Bein Sports 3
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191850
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="SPORTS",Bein Sports 4
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191851
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="SPORTS",Bein Sports 5
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/270029
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="SPORTS",Bein Sports 6
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/270030
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="SPORTS",Bein Sports 7
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191854
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png" group-title="SPORTS",Bein Sports 8
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191855
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png" group-title="SPORTS",Bein Sports 9
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191856
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png" group-title="SPORTS",Bein Sports 10
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/270034
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png" group-title="SPORTS",Bein Sports 11
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191858
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="SPORTS",Bein Sports 12
+http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191859
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/08/rtnews.jpg" group-title="NEWS",RT News [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUZIK",GAAN BANGLA HD [BD]
