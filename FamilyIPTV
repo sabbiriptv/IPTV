@@ -99,8 +99,6 @@ http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
 http://z5amshls.akamaized.net/bigganga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI",Zee Cinema HD [1]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI",Zee Cinema HD [3]
-http://tv.dflix.live:8082/76/mono.m3u8?token=5317da7eea8518596031ad15864ecd188223e09e-9ef35acec83d2ce8595531359be81c84-1610880922-1610870122
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI",Zee Cinema HD [2]
 http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="HINDI",Zee Action
@@ -113,14 +111,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI",SONY MAX HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI",SONY MAX HD (2)
-http://tv.dflix.live:8082/77/mono.m3u8?token=a166b9c1ca2a1a3bc5f070eb7d793541805438e2-506a0b8f0db7790d0f1ac2a20d031a48-1610880745-1610869945
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png" group-title="HINDI",Star Gold HD
-http://tv.dflix.live:8082/75/mono.m3u8?token=c73632877edc1a5ea4af5a36cc2b538a1f270e55-026b516ff77833eb645a7e9fab2251e7-1610879346-1610868546
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="HINDI",Star Plus
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="HINDI",Star Plus (2)
-http://tv.dflix.live:8082/67/mono.m3u8?token=3f6c3eabf8443d9ba58e6a6278af154f43c1719c-c757feb8127ff8db730a3e49ab6568bc-1610880667-1610869867&remote=103.99.180.101
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="HINDI",WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="HINDI",BOX CINEMA
