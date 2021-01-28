@@ -238,9 +238,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",Gazi TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORTS",Bein Sports 1
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191848
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="SPORTS",Bein Sports 2
-http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191849
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="SPORTS",Bein Sports 3
 http://sfast1.net:2052/maxconnecttvtest/DlZ16DPzYO/191850
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="SPORTS",Bein Sports 4
