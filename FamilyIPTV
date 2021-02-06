@@ -132,11 +132,11 @@ https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="HINDI",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkRBcZX.jpg" group-title="HINDI",MANORANJAN TV
-https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
+https://itvorigin.multitvsolution.com/idvo/manoranjantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="HINDI",MAHA MOVIE
-https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
+https://itvorigin.multitvsolution.com/idvo/mahamovie.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg" group-title="HINDI",Housefull Movies
-https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
+https://itvorigin.multitvsolution.com/idvo/housefullmovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="HINDI",Bflix Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.m3u8
 #EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg" group-title="HINDI",B4U Plus
@@ -152,23 +152,21 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH",Star Movies HD [2]
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT",ANIMAL PLANET HD [HINDI]
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery [BANGLA]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery [HINDI]
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INFOTAINMENT",NAT GEO WILD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFOTAINMENT",Discovery Science [HINDI]
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFOTAINMENT",Discovery Science [ENGLISH]
-https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="INFOTAINMENT",Discovery Turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+https://itvorigin.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT",TLC [ENGLISH]
-https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
+https://itvorigin.multitvsolution.com/idvo/tlceng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT",TLC [HINDI]
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uT41kj.png" group-title="RELGIOUS",Saudi Sunnah
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="RELGIOUS",Saudi Quran
