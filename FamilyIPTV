@@ -240,34 +240,36 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD [2]
 http://otv.ftpbd.net:80/streams/114/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SONY ESPN" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORTS",RealMadrid TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.m3u8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="NEWS",Al Jazeera HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",Gazi TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORTS",Bein Sports 1
+https://rhridoy136.shortcm.li/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",Gazi TV [BD]
+http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",Gazi TV [BD] (2)
+http://tv.neobd.net:1935/live/tv2/chunklist_w1824446364.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORTS",Bein Sports 1 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="SPORTS",Bein Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="SPORTS",Bein Sports 2 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="SPORTS",Bein Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="SPORTS",Bein Sports 3 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="SPORTS",Bein Sports 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="SPORTS",Bein Sports 4 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="SPORTS",Bein Sports 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="SPORTS",Bein Sports 5 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="SPORTS",Bein Sports 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="SPORTS",Bein Sports 6 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="SPORTS",Bein Sports 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="SPORTS",Bein Sports 7 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png" group-title="SPORTS",Bein Sports 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png" group-title="SPORTS",Bein Sports 8 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png" group-title="SPORTS",Bein Sports 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png" group-title="SPORTS",Bein Sports 9 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png" group-title="SPORTS",Bein Sports 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png" group-title="SPORTS",Bein Sports 10 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png" group-title="SPORTS",Bein Sports 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png" group-title="SPORTS",Bein Sports 11 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="SPORTS",Bein Sports 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="SPORTS",Bein Sports 12 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/08/rtnews.jpg" group-title="NEWS",RT News [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
@@ -280,8 +282,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUZIK",Sangeet Bangla [IN]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="MUZIK",Zing
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MUSIC MASTI" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVJfMKRvghWP1ibjmaTUyx3POPieBt057RJes6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="MUZIK",MUSIC MASTI
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.m3u8
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MUSIC INDIA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="MUZIK",MUSIC INDIA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+
