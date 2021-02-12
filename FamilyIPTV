@@ -144,7 +144,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9whd4No.png" group-title="ENGLISH",HBO
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH",Star Movies HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
+http://pn.tvott.info:80/307225531434/307225531434/78917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH",Star Movies HD [2]
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT",ANIMAL PLANET HD [HINDI]
@@ -182,9 +182,9 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="KIDZ",Big Magic
 http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="KIDZ",NICK
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.m3u8
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
 #EXTINF:-1 tvg-ID="" tvg-name="SONY YAY" tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/general_content/20_0_18_1_1522242489.jpg" group-title="KIDZ",SONY YAY
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
+http://rv.therevenge.co:80/live/242424/242424/83698.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-ID="" tvg-name="DISENY CARTOON" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngusASFZhhWjJ_x-E9Txe1rptV3VpEibVG30Cj9BA=s900-c-k-c0x00ffffff-no-rj" group-title="KIDZ",DISENY XD
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
