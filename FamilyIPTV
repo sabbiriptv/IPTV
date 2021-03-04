@@ -188,15 +188,19 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="KIDZ",Big Magic
 http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="KIDZ",NICK
-http://103.80.70.59/hls/stream23.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/284ad1fec9855ca.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SONY YAY" tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/general_content/20_0_18_1_1522242489.jpg" group-title="KIDZ",SONY YAY
 http://103.80.70.59/hls/stream32.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DISENY CARTOON" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngusASFZhhWjJ_x-E9Txe1rptV3VpEibVG30Cj9BA=s900-c-k-c0x00ffffff-no-rj" group-title="KIDZ",DISENY XD
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngusASFZhhWjJ_x-E9Txe1rptV3VpEibVG30Cj9BA=s900-c-k-c0x00ffffff-no-rj" group-title="KIDZ",DISENY XD
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="KIDZ",Disney Hindi
+http://pn.tvott.info:80/477845056156344/477845056156344/83609
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="KIDZ",Pogo
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bf25c45bfd4a2db.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [BD]
-http://tv.neobd.net:1935/live/tv1/chunklist_w216808600.m3u8
+http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [BD] (2)
 http://10.16.100.201/hindi/sportsT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports [BD] (3)
