@@ -38,6 +38,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BANGLA",SA TV HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA",DEEPTO TV HD [BD]
+http://cdn.ihub.live:8080/j-DeeptoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA",DEEPTO TV HD [BD] (2)
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://www.daily-bangladesh.com/media/imgAll/2018January/SM/-180301114254." group-title="BANGLA",Nagorik TV [BD]
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
