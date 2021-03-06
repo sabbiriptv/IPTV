@@ -60,15 +60,17 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg" group-title="BANGLA",DURONTO TV [BD]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
 #EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",BIJOY TV HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BANGLA",ANANDA TV HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="BANGLA",Star Jalsha HD [IN]
-http://10.16.100.200:8082/hls/starjalsha_bd_hd_720p.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/30.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="BANGLA",Zee Bangla HD [IN]
 http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="BANGLA",Zee Bangla SD [IN] (2)
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/34.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="BANGLA",Colors Bangla HD [IN] (Global)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA",Sony Aath [IN]
@@ -78,11 +80,13 @@ http://otv.ftpbd.net/streams/127/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA",Sony Aath [IN] (3)
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="BANGLA",Enter 10 Bangla [IN]
-https://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8#
+https://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="BANGLA",Enter 10 Bangla [IN] (2)
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema [IN]
-http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/29.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BANGLA",Jalsha Movies HD [IN]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies [IN] (2)
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA",Orange Bangla [IN]
