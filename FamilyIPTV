@@ -277,6 +277,8 @@ http://cdn.ihub.live:8080/RedBullTVHD/tracks-v1a1/mono.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="NEWS",Al Jazeera HD
 https://rhridoy136.shortcm.li/aljazeera.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" tvg-country="IN" tvg-url="" group-title="NEWS",BBC World News
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/44.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",Gazi TV [BD]
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",Gazi TV [BD] (2)
@@ -310,7 +312,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/08/rtnews.jpg" group-title="NEWS",RT News [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUZIK",GAAN BANGLA HD [BD]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/58.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="MUZIK",RTV Music [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUZIK",ATN Music [BD]
@@ -321,6 +323,8 @@ http://103.205.133.20/hls/sangeetbangla.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MUSIC MASTI" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVJfMKRvghWP1ibjmaTUyx3POPieBt057RJes6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="MUZIK",MUSIC MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="MUZIK",Zoom
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MUSIC INDIA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="MUZIK",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
