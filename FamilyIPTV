@@ -57,10 +57,10 @@ http://103.205.133.20/hls/jamunatv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDZ",DURONTO TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BANGLA",DURONTO TV HD
 http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDZ",DURONTO TV HD (2)
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BANGLA",DURONTO TV HD (2)
+http://tvserver3.roarzone.info:25461/live/free/roarzone/10.m3u8
 #EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",BIJOY TV HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BANGLA",ANANDA TV HD [BD]
@@ -208,7 +208,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDZ",DURONTO TV HD
 http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDZ",DURONTO TV HD (2)
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
+http://tvserver3.roarzone.info:25461/live/free/roarzone/10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDZ",Discovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDZ",CARTOON NETWORK [Hindi]
